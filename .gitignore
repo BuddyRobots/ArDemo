@@ -1,0 +1,31 @@
+# Unity3D related
+Library
+ProjectSettings
+Temp
+ArDemo.sln
+Assembly-CSharp-Editor.csproj
+Assembly-CSharp.csproj
+Assembly-UnityScript-Editor-firstpass.unityproj
+ArDemo.userprefs
+
+
+# Vuforia related
+Assets/Plugins
+Assets/Vuforia
+Assets/*.meta
+Assets/link.xml
+Assets/license_3rdpartynotice.txt
+Assets/readme_SDK.txt
+
+
+# Xcode related
+ArDemoXcode/*
+
+
+# MAC OSX related
+.DS_Store
+*.zip
+
+
+# Windows OS related
+*.rar
